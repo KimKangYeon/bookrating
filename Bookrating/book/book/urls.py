@@ -23,3 +23,4 @@ urlpatterns = [
     path('new/', views.new, name='new'),
     path('detail/<int:post_pk>/', views.detail, name='detail'),
 ]
+# dsakjkdsajkdjsa
